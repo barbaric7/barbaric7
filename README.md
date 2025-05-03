@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya</h1>
-- I’m looking to collaborate on **anything possible (except with @NyaNekko).**
+- I’m looking to collaborate on anything possible (except with @NyaNekko).
 
 - 👀 I’m interested in **sleeping.**
 
