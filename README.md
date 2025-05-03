@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aadityakalmekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityakalmekh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aaditya_kalmekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aaditya_kalmekh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aadikalmekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aadikalmekh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aadikalmekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aadikalmekh" height="30" width="40" /></a>
 <a href="https://discord.gg/@sloth7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@sloth7" height="30" width="40" /></a>
 </p>
 
