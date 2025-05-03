@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barbaric7
-- 👀 I’m interested in sleeping.
-- 🌱 I’m currently learning how to live life.
-- 💞️ I’m looking to collaborate on anything possible.
+- 👀 I’m interested in sleeping alone.
+- 🌱 I’m currently learning how to live a peaceful happy life.
+- 💞️ I’m looking to collaborate on anything possible (except with @NyaNekko).
 - 📫 How to reach me @barbaric_aadi on ig.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Here just out of FOMO i got from my college friend.
