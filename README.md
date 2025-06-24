@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aaditya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Profile%20views&color=0e75b6&style=flat" alt="barbaric7" /> </p>
-- I’m looking to collaborate on anything possible (except with @NyaNekko).
+- Figuring out this coding thing, one project at a time..
 
-- 👀 I’m interested in **sleeping.**
+- 👀 I’m honestly interested in **everything.**
 
 - 📫 How to reach me **@aaditya_kalmekh on ig.**
 
