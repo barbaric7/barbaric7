@@ -4,10 +4,6 @@
 
 - 👀 I’m honestly interested in **everything.**
 
-- 📫 How to reach me **@aaditya_kalmekh on ig.**
-
-- ⚡ Fun fact **Here just out of FOMO i got from my college friend.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/severusmoneky" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="@severusmoneky" height="30" width="40" /></a>
