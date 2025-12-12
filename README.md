@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aaditya</h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif"
+     alt="👋 Hi there! I'm barbaric7"
+     title="👋 Hi there! I'm barbaric7"
+/>](https://barbaric7.github.io/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Profile%20views&color=0e75b6&style=flat" alt="barbaric7" /> </p>
 - Figuring out this coding thing, one project at a time..
 
