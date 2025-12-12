@@ -1,65 +1,39 @@
-<div align="center">
+<img align="left" src="https://media1.tenor.com/m/9XgMqr8jYVUAAAAC/ice-bear-we-bare-bears.gif" width="320">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://media1.tenor.com/m/9XgMqr8jYVUAAAAC/ice-bear-we-bare-bears.gif" width="100%" alt="Ice Bear"/>
-    </td>
-    <td width="70%" valign="middle" style="padding-left: 20px;">
-      
-<h1>Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaditya.</h1>
+### Hey!
 
-<p>
-👾 <b>I'm a Developer figuring things out, one project at a time.</b>
-</p>
+👾 I'm **Aaditya**.
 
-<p>
-🚀 Started coding just out of college "FOMO", now I'm addicted to <b>C++</b> and <b>Web Dev</b>.
-</p>
+🚀 A developer transitioning from "college FOMO" to a deep passion for **C++** and **Web Dev**.
 
-<p>
-👀 Honestly interested in <b>everything</b>.
-</p>
+🧠 I work on **Data Structures** and **Full Stack Applications**.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Views&color=blue&style=flat-square" alt="Views" />
-  <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-@aaditya__kalmekh-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-@severusmoneky-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-</p>
+👀 I'm honestly interested in **everything**.
 
-</td>
-</tr>
-</table>
+[![IG](https://img.shields.io/badge/IG-%40aaditya__kalmekh-E4405F?style=flat&labelColor=545454&color=313131)](https://instagram.com/aaditya_kalmekh) [![Telegram](https://img.shields.io/badge/Telegram-%40severusmoneky-2CA5E0?style=flat&labelColor=545454&color=313131)](https://t.me/severusmoneky) [![Discord](https://img.shields.io/badge/Discord-%40sloth7-7289DA?style=flat&labelColor=545454&color=313131)](https://discord.gg/@sloth7)
 
-<h3 align="left">⚡ Stats</h3>
-<p align="left">
-  I started my coding journey recently. Since then, I have been strictly focused on <b>Data Structures (C++)</b> and building <b>Full Stack Applications (Node.js & Firebase)</b>.
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=barbaric7&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barbaric7&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
-</p>
+#### ⚡ Stats
 
-<h3 align="left">💻 Tech Stack</h3>
-<table border="0">
-  <tr>
-    <td width="20%"><b>Languages</b></td>
-    <td>C++, C, Python, Java, JavaScript</td>
-  </tr>
-  <tr>
-    <td width="20%"><b>Web</b></td>
-    <td>Node.js, Express, React, HTML5, CSS3, Tailwind</td>
-  </tr>
-  <tr>
-    <td width="20%"><b>Data</b></td>
-    <td>SQL, MongoDB, Firebase</td>
-  </tr>
-  <tr>
-    <td width="20%"><b>Tools</b></td>
-    <td>Git, Linux, Postman</td>
-  </tr>
-</table>
+I started my coding journey recently and since then I have been strictly focused on **C++**, **Python**, and **JavaScript**. I am currently mastering **Algorithms** and building **Web Apps** with Node.js.
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=barbaric7&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/barbaric7)
+
+#### 🌀 Tech Stack
+
+| **DSA & Core** | **Web & Tools** |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • **C++** - My primary language for Logic & DSA<br>• **Python** - Scripting and automation<br>• **Java** - Object Oriented Programming<br>• **C** - System basics<br>• **Algorithms** - Sorting, Searching, Graphs, Trees<br>• **Data Structures** - Arrays, Linked Lists, Stacks, Queues | • **React** - Frontend UI library<br>• **Node.js** - Backend runtime<br>• **Firebase** - Backend-as-a-Service & Database<br>• **SQL** - Database Management<br>• **MongoDB** - NoSQL Database<br>• **Git** - Version Control<br>• **Linux** - Operating System<br>• **Postman** - API Testing |
+
+<div align="right">
+
+**~** [_barbaric7_](https://github.com/barbaric7)
 
 </div>
 
