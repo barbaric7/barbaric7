@@ -1,4 +1,4 @@
-<img src="The%20three%20bears.gif" align="left" width="280" alt="Ice Bear reading" />
+<img src="The%20three%20bears.gif" align="left" width="250" alt="Ice Bear" />
 
 ### Hey!
 
@@ -10,7 +10,7 @@
 
 👀 I'm honestly interested in **everything**.
 
-<p align="left">
+<p>
   <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-%40aaditya__kalmekh-E4405F?style=flat&labelColor=545454&color=313131" alt="IG"></a>
   <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-%40severusmoneky-2CA5E0?style=flat&labelColor=545454&color=313131" alt="Telegram"></a>
   <a href="https://discord.gg/@sloth7"><img src="https://img.shields.io/badge/Discord-%40sloth7-7289DA?style=flat&labelColor=545454&color=313131" alt="Discord"></a>
