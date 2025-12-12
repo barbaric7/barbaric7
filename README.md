@@ -1,44 +1,65 @@
+<div align="center">
 
-# Hey! <img src="https://media1.tenor.com/m/9XgMqr8jYVUAAAAC/ice-bear-we-bare-bears.gif" width="100%" alt="Ice Bear Reading"/>
- I'm Aaditya
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media1.tenor.com/m/9XgMqr8jYVUAAAAC/ice-bear-we-bare-bears.gif" width="100%" alt="Ice Bear"/>
+    </td>
+    <td width="70%" valign="middle" style="padding-left: 20px;">
+      
+<h1>Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaditya.</h1>
 
-<br/>
+<p>
+👾 <b>I'm a Developer figuring things out, one project at a time.</b>
+</p>
 
-👾 **A Developer figuring things out, one project at a time.**
+<p>
+🚀 Started coding just out of college "FOMO", now I'm addicted to <b>C++</b> and <b>Web Dev</b>.
+</p>
 
-🚀 Started out of college "FOMO," now addicted to **C++ & Full Stack Web Dev.**
+<p>
+👀 Honestly interested in <b>everything</b>.
+</p>
 
-🧠 Currently focused on **Data Structures & Algorithms.**
-
-👀 Honestly interested in **everything.**
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=barbaric7&label=Views&color=blue&style=flat-square" alt="views" />
-<a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-@aaditya__kalmekh-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-@severusmoneky-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-<a href="https://discord.gg/@sloth7" target="blank"><img src="https://img.shields.io/badge/Discord-@sloth7-7289DA?style=flat-square&logo=discord&logoColor=white" alt="@sloth7" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Views&color=blue&style=flat-square" alt="Views" />
+  <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-@aaditya__kalmekh-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-@severusmoneky-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<h3 align="left">⚡ Activity & Languages</h3>
+<h3 align="left">⚡ Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=barbaric7&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="barbaric7 stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barbaric7&theme=tokyonight&hide_border=true&background=0D1117" alt="barbaric7 streak" height="160" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaric7&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="barbaric7 languages" height="160" />
+  I started my coding journey recently. Since then, I have been strictly focused on <b>Data Structures (C++)</b> and building <b>Full Stack Applications (Node.js & Firebase)</b>.
 </p>
 
-<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=barbaric7&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barbaric7&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
+</p>
 
-<h3 align="left">🛠️ Tech Stack</h3>
-
-| **DSA & Core** | **Full Stack Web** | **Tools & Platforms** |
-| :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+<h3 align="left">💻 Tech Stack</h3>
+<table border="0">
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>C++, C, Python, Java, JavaScript</td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Web</b></td>
+    <td>Node.js, Express, React, HTML5, CSS3, Tailwind</td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Data</b></td>
+    <td>SQL, MongoDB, Firebase</td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Tools</b></td>
+    <td>Git, Linux, Postman</td>
+  </tr>
+</table>
 
 </div>
 
