@@ -6,7 +6,7 @@
     <td width="50%">
       <h3>Hey!</h3>
       <p>👾 I'm <strong>Aaditya</strong>.</p>
-      <p>🚀 Trying out different tech stacks from system-level coding to web technologies.</p>
+      <p>🐻 Trying out different tech stacks from system-level coding to web technologies.</p>
       <p>🧠 I focus on writing optimized code and building robost applications.</p>
       <p>👀 I'm honestly interested in <strong>everything</strong>.</p>
       <p>
