@@ -1,4 +1,5 @@
-<img src="./images/The%20three%20bears.gif" alt="Ice Bear reading" />
+<img src="The%20three%20bears.gif" align="right" width="300" alt="Ice Bear reading" />
+
 ### Hey!
 
 👾 I'm **Aaditya**.
