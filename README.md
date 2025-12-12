@@ -1,5 +1,4 @@
-<img align="left" src="https://media1.tenor.com/m/9XgMqr8jYVUAAAAC/ice-bear-we-bare-bears.gif" width="320">
-
+<img src="./images/The%20three%20bears.gif" alt="Ice Bear reading" />
 ### Hey!
 
 👾 I'm **Aaditya**.
