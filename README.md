@@ -1,12 +1,4 @@
 
-<div align="center">
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="40%" align="center" valign="center">
-</td>
-<td width="60%" valign="center" style="padding-left: 20px;">
-
 # Hey! <img src="https://media1.tenor.com/m/9XgMqr8jYVUAAAAC/ice-bear-we-bare-bears.gif" width="100%" alt="Ice Bear Reading"/>
  I'm Aaditya
 
