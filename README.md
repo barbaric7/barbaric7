@@ -6,8 +6,8 @@
     <td width="50%">
       <h3>Hey!</h3>
       <p>👾 I'm <strong>Aaditya</strong>.</p>
-      <p>🚀 A developer transitioning from "college FOMO" to a deep passion for <strong>C++</strong> and <strong>Web Dev</strong>.</p>
-      <p>🧠 I work on <strong>Data Structures</strong> and <strong>Full Stack Applications</strong>.</p>
+      <p>🚀 Trying out different tech stacks from system-level coding to web technologies.</p>
+      <p>🧠 I focus on writing optimized code and building robost applications.</p>
       <p>👀 I'm honestly interested in <strong>everything</strong>.</p>
       <p>
         <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-%40aaditya__kalmekh-E4405F?style=flat&labelColor=545454&color=313131" alt="IG"></a>
