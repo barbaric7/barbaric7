@@ -16,22 +16,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 #### ⚡ Stats
 
 I started my coding journey recently and since then I have been strictly focused on **C++**, **Python**, and **JavaScript**. I am currently mastering **Algorithms** and building **Web Apps** with Node.js.
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=barbaric7&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/barbaric7)
-
-#### 🌀 Tech Stack
-
-| **DSA & Core** | **Web & Tools** |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • **C++** - My primary language for Logic & DSA<br>• **Python** - Scripting and automation<br>• **Java** - Object Oriented Programming<br>• **C** - System basics<br>• **Algorithms** - Sorting, Searching, Graphs, Trees<br>• **Data Structures** - Arrays, Linked Lists, Stacks, Queues | • **React** - Frontend UI library<br>• **Node.js** - Backend runtime<br>• **Firebase** - Backend-as-a-Service & Database<br>• **SQL** - Database Management<br>• **MongoDB** - NoSQL Database<br>• **Git** - Version Control<br>• **Linux** - Operating System<br>• **Postman** - API Testing |
-
-<div align="right">
 
 **~** [_barbaric7_](https://github.com/barbaric7)
 
