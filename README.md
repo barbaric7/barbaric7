@@ -14,17 +14,10 @@
         <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-%40severusmoneky-2CA5E0?style=flat&labelColor=545454&color=313131" alt="Telegram"></a>
         <a href="https://discord.gg/@sloth7"><img src="https://img.shields.io/badge/Discord-%40sloth7-7289DA?style=flat&labelColor=545454&color=313131" alt="Discord"></a>
       </p>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Profile%20views&color=0e75b6&style=flat" alt="barbaric7" /> </p>
     </td>
   </tr>
 </table>
-
-<br>
-
-#### ⚡ Stats
-
-I started my coding journey recently and since then I have been strictly focused on **C++**, **Python**, and **JavaScript**. I am currently mastering **Algorithms** and building **Web Apps** with Node.js.
-
-**~** [_barbaric7_](https://github.com/barbaric7)
 
 <br>
 
