@@ -1,22 +1,30 @@
-<table>
-  <tr>
-    <td width="50%">
-      <img src="The%20three%20bears.gif" width="100%" alt="Ice Bear reading">
-    </td>
-    <td width="50%">
-      <h3>Hey!</h3>
-      <p>👾 I'm <strong>Aaditya</strong>.</p>
-      <p>🚀 A developer transitioning from "college FOMO" to a deep passion for <strong>C++</strong> and <strong>Web Dev</strong>.</p>
-      <p>🧠 I work on <strong>Data Structures</strong> and <strong>Full Stack Applications</strong>.</p>
-      <p>👀 I'm honestly interested in <strong>everything</strong>.</p>
-      <p>
-        <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-%40aaditya__kalmekh-E4405F?style=flat&labelColor=545454&color=313131" alt="IG"></a>
-        <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-%40severusmoneky-2CA5E0?style=flat&labelColor=545454&color=313131" alt="Telegram"></a>
-        <a href="https://discord.gg/@sloth7"><img src="https://img.shields.io/badge/Discord-%40sloth7-7289DA?style=flat&labelColor=545454&color=313131" alt="Discord"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="The%20three%20bears.gif" align="left" width="280" alt="Ice Bear reading" />
+
+### Hey!
+
+👾 I'm **Aaditya**.
+
+🚀 A developer transitioning from "college FOMO" to a deep passion for **C++** and **Web Dev**.
+
+🧠 I work on **Data Structures** and **Full Stack Applications**.
+
+👀 I'm honestly interested in **everything**.
+
+<p align="left">
+  <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-%40aaditya__kalmekh-E4405F?style=flat&labelColor=545454&color=313131" alt="IG"></a>
+  <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-%40severusmoneky-2CA5E0?style=flat&labelColor=545454&color=313131" alt="Telegram"></a>
+  <a href="https://discord.gg/@sloth7"><img src="https://img.shields.io/badge/Discord-%40sloth7-7289DA?style=flat&labelColor=545454&color=313131" alt="Discord"></a>
+</p>
+
+<br clear="all" />
+
+#### ⚡ Stats
+
+I started my coding journey recently and since then I have been strictly focused on **C++**, **Python**, and **JavaScript**. I am currently mastering **Algorithms** and building **Web Apps** with Node.js.
+
+**~** [_barbaric7_](https://github.com/barbaric7)
+
+<br />
 <br>
 <br>
 <br>
