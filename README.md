@@ -1,68 +1,78 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%">
-      <img src="The%20three%20bears.gif" width="100%" alt="Ice Bear reading">
+    <td width="25%" valign="middle" align="middle">
+      <img src="capybara.png" width="190px"/>
     </td>
-    <td width="50%">
-      <h3>Hey!</h3>
-      <p>👾 I'm <strong>Aaditya</strong>.</p>
-      <p>🐻 Trying out different tech stacks from system-level coding to web technologies.</p>
-      <p>🧠 I focus on writing optimized code and building robost applications.</p>
-      <p>👀 I'm honestly interested in <strong>everything</strong>.</p>
-      <p>
-        <a href="https://instagram.com/aaditya_kalmekh"><img src="https://img.shields.io/badge/IG-%40aaditya__kalmekh-E4405F?style=flat&labelColor=545454&color=313131" alt="IG"></a>
-        <a href="https://t.me/severusmoneky"><img src="https://img.shields.io/badge/Telegram-%40severusmoneky-2CA5E0?style=flat&labelColor=545454&color=313131" alt="Telegram"></a>
-        <a href="https://discord.gg/@sloth7"><img src="https://img.shields.io/badge/Discord-%40sloth7-7289DA?style=flat&labelColor=545454&color=313131" alt="Discord"></a>
-      </p>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Profile%20views&color=0e75b6&style=flat" alt="barbaric7" /> </p>
+    <td width="75%" valign="middle">
+      <h1>Barbaric7</h1>
+      <p>I build things because something annoyed me enough to fix it. Most of what I work on starts as a real problem something clunky, missing, or just done wrong and ends as software.</p>
+      <p>Comfortable moving across the stack. From low-level systems to shipping web apps, I care more about the problem being solved than the layer it lives in.</p>
     </td>
+    
   </tr>
 </table>
 
-<br>
+---
 
-#### ⚡ Stats
+**Languages**
 
-I started my coding journey recently and since then I have been strictly focused on **C++**, **Python**, and **JavaScript**. I am currently mastering **Algorithms** and building **Web Apps** with Node.js.
-
-**~** [_barbaric7_](https://github.com/barbaric7)
-
-</div>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-      <br />
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://skillicons.dev/icons?i=pr" /></a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Lightroom_CC_2026_icon.svg" width="48" height="48" style="margin-bottom:4px; border-radius:8px;" alt="Lightroom"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="36"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="36"/>
+  <img src="https://skillicons.dev/icons?i=java" height="36"/>
+  <img src="https://skillicons.dev/icons?i=python" height="36"/>
+  <img src="https://skillicons.dev/icons?i=js" height="36"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="36"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="36"/>
 </p>
+
+**Web & Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="36"/>
+  <img src="https://skillicons.dev/icons?i=css" height="36"/>
+  <img src="https://skillicons.dev/icons?i=react" height="36"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="36"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36"/>
+  <img src="https://skillicons.dev/icons?i=flutter" height="36"/>
+</p>
+
+**Data & Infra**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="36"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="36"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="36"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="36"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="36"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="36"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="36"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="36"/>
+  <img src="https://skillicons.dev/icons?i=github" height="36"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="36"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="36"/>
+  <img src="https://skillicons.dev/icons?i=unity" height="36"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="36"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="36"/>
+  <img src="https://skillicons.dev/icons?i=pr" height="36"/>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Profile%20views&color=0e75b6&style=flat" alt="barbaric7" /> </p>
+
+
+---
+
+**Reach me**
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40aaditya__kalmekh-313131?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aaditya_kalmekh)
+[![Telegram](https://img.shields.io/badge/Telegram-%40severusmoneky-313131?style=flat&logo=telegram&logoColor=white)](https://t.me/severusmoneky)
+[![Discord](https://img.shields.io/badge/Discord-%40sloth7-313131?style=flat&logo=discord&logoColor=white)](https://discord.gg/@sloth7)
