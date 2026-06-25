@@ -74,5 +74,5 @@
 **Reach me**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40aaditya__kalmekh-313131?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aaditya_kalmekh)
-[![Telegram](https://img.shields.io/badge/Telegram-%40severusmoneky-313131?style=flat&logo=telegram&logoColor=white)](https://t.me/severusmoneky)
+[![Telegram](https://img.shields.io/badge/Telegram-%40thebarbaric7-313131?style=flat&logo=telegram&logoColor=white)](https://t.me/thebarbaric7)
 [![Discord](https://img.shields.io/badge/Discord-%40sloth7-313131?style=flat&logo=discord&logoColor=white)](https://discord.gg/@sloth7)
