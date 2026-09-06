@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="25%" valign="middle" align="middle">
-      <img src="capybara.png" width="190px"/>
+      <img src="kotaru.png" width="190px"/>
     </td>
     <td width="75%" valign="middle">
       <h1>Barbaric7</h1>
