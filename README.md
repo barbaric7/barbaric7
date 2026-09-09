@@ -13,57 +13,10 @@
 </table>
 
 ---
+**Stuff i use** 
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c" height="36"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="36"/>
-  <img src="https://skillicons.dev/icons?i=java" height="36"/>
-  <img src="https://skillicons.dev/icons?i=python" height="36"/>
-  <img src="https://skillicons.dev/icons?i=js" height="36"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="36"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" height="36"/>
-</p>
-
-**Web & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="36"/>
-  <img src="https://skillicons.dev/icons?i=css" height="36"/>
-  <img src="https://skillicons.dev/icons?i=react" height="36"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="36"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="36"/>
-  <img src="https://skillicons.dev/icons?i=flutter" height="36"/>
-</p>
-
-**Data & Infra**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="36"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="36"/>
-  <img src="https://skillicons.dev/icons?i=supabase" height="36"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="36"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="36"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="36"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="36"/>
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="36"/>
-  <img src="https://skillicons.dev/icons?i=github" height="36"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="36"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="36"/>
-  <img src="https://skillicons.dev/icons?i=unity" height="36"/>
-  <img src="https://skillicons.dev/icons?i=blender" height="36"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="36"/>
-  <img src="https://skillicons.dev/icons?i=pr" height="36"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,html,css,react,nextjs,vite,tailwind,bootstrap,nodejs,flask,fastapi,electron,flutter,androidstudio,pytorch,opencv,mongodb,mysql,postgres,firebase,supabase,docker,kubernetes,linux,vercel,git,github,gitlab,vscode,postman,figma,unity,blender,vim,powershell,angular,astro,sqlite,npm" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaric7&label=Profile%20views&color=0e75b6&style=flat" alt="barbaric7" /> </p>
